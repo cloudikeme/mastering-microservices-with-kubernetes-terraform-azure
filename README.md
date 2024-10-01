@@ -30,7 +30,7 @@ Each part of the series focuses on a key aspect, with corresponding code in this
 
 | Part | Title | Blog Post | Code |
 |---|---|---|---|
-| 1 | Setup Your Microservice Development Environment | [https://cloudikeme.com/devbox-setting-up-your-development-environment](https://cloudikeme.com/devbox-setting-up-your-development-environment) | [part-1/](/part-1/) |
+| 1 | Setup Your Microservice Development Environment | [Blog Post 1](https://cloudikeme.com/devbox-setting-up-your-development-environment) | [part-1/](/part-1/) |
 | 2 | Create a Repository Using Git and GitHub CLI | [Blog Post 2](/your-blog-post-2-url) | [part-2/](/part-2/) |
 | 3 | Create Code for Individual Microservices | [Blog Post 3](/your-blog-post-3-url) | [part-3/](/part-3/) |
 | 4a | Difference Between Containers and Images | [Blog Post 4a](/your-blog-post-4a-url) | [part-4a/](/part-4a/) |
