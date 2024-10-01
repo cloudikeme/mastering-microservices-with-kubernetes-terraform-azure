@@ -1,5 +1,7 @@
 # Mastering Microservices From Development to Deployment with Kubernetes, Terraform, and Azure
 
+👋 Hey there! It's me, Victor "cloudikeme" Ikeme, back at it again with another hands-on tutorial project series! 😉 
+
 Welcome to **Mastering Microservices**, a hands-on tutorial series that guides you through the entire process of building, deploying, and managing a microservices-based application.  
 
 **🚀 Follow along with the tutorials on my blog:** [https://cloudikeme.com/mastering-microservices-from-development-to-deployment](https://cloudikeme.com/mastering-microservices-from-development-to-deployment)
