@@ -14,9 +14,9 @@ This repository provides the code for the "Mastering Microservices" series. We'l
 * **C4P Service (Call for Papers)**: Manages the submission of talk proposals for the conference.
 * **Agenda Service:** Displays the conference agenda and manages scheduling.
 * **Notifications Service:** Sends notifications about updates, deadlines, or new agenda items.
-**PostgreSQL:** Used for relational data storage, primarily for agenda scheduling and user data.
-**Redis:** In-memory data store used for caching and quick data retrieval
-**Kafka:** Acts as the communication layer between services, enabling event-driven architecture for notifications and agenda updates.
+* **PostgreSQL:** Used for relational data storage, primarily for agenda scheduling and user data.
+* **Redis:** In-memory data store used for caching and quick data retrieval
+* **Kafka:** Acts as the communication layer between services, enabling event-driven architecture for notifications and agenda updates.
 * **Agenda Management**
 * **Real-time Notifications**
 * **User Management**
