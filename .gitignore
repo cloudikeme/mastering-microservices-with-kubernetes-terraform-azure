@@ -1,0 +1,26 @@
+# IDE and Text Editor Files
+.idea/
+*.iml
+.vscode/
+devbox.json
+devbox.lock
+.devbox
+.venv
+
+# Build Artifacts
+bin/
+out/
+target/
+dist/
+
+# Dependency Caches
+node_modules/
+.cache/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.swp
